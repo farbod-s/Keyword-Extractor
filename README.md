@@ -3,6 +3,8 @@ Keyword-Extractor
 
 Artificial Intelligence Courses Project
 
+<hr>
+
 ### Screenshots
 
 <img src="http://upload7.ir/images/10844621866580945878.png">
